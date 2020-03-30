@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+30/03/2020
 
 ### Project Title
-Replace the Project Title
+U.S bikeshare data analysis
 
 ### Description
-Describe what your project is about and what it does
+Analysis on U.S Bikashre data. Created Statistics and built an interactive environment where a user chooses the data and filter for a dataset to analyze. Refactored code commit.
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Various website that I used when Udacity did not provide enough information:
+https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/
+https://www.google.com/search?q=git+create+a+local+repository&oq=git+create+a+local+repository&aqs=chrome..69i57j0l5.78050j0j7&sourceid=chrome&ie=UTF-8
 

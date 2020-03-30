@@ -33,6 +33,7 @@ def get_filters():
     while True:
         city = input('Which city do you want to explore Chicago, New York or Washington? \n> ').lower()
         if city in CITIES:
+            print("Enter valid name of the city")
             break
 
     # get user input for month (all, january, february, ... , june)
