@@ -2,10 +2,10 @@
 30/03/2020
 
 ### Project Title
-U.S Bikeshare data analysis
+U.S Bikeshare data analysis on three cities
 
 ### Description
-Analysis on U.S Bikashre data. Created Statistics and built an interactive environment where a user chooses the data and filter for a dataset to analyze
+Analysis on U.S Bikashre data. Created Statistics and built an interactive environment where a user chooses the data and filter for a dataset to analyze.
 
 ### Files used
 bikeshare.py
